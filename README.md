@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SARA ALEEM</h1>
-<h3 align="center">I am a Third Year B.Tech Student. I am also a web developer and a ML enthusiast. </h3>
+<h3 align="center">Cybersecurity  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sara184&label=Profile%20views&color=0e75b6&style=flat" alt="sara184" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Exploring and Learning
 
-- 💬 Ask me about **Web-Development**
+- 💬 Ask me about Cybersecurity and Cloud Security
 
 - 📫 How to reach me **saraaleem778@gmail.com**
 
